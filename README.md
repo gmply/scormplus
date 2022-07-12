@@ -1,2 +1,2 @@
 # scormplus
-Scorm plus public repository
+Scorm plus public repository for discuss new features
